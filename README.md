@@ -1,20 +1,9 @@
-<div class="Box mt-4 ">
-  <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/HazemKhaled/hazemkhaled" class="no-underline Link--primary">hazemkhaled</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
-
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HazemKhaled/hazemkhaled/refs/heads/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HazemKhaled/hazemkhaled/refs/heads/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/HazemKhaled/hazemkhaled/refs/heads/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
 </picture></themed-picture>
 </article>
-  </div>
-</div>
-
 <h1 align="center">Hi 👋, I'm Mohammed Al-Zawari</h1>
 <h3 align="center">Hey there! I'm Mohammed Al-Zawari — a frontend developer with a growing passion for backend magic. I see code as a creative tool, where logic meets visual expression. Whether it's refining UI interactions or diving into performance optimization, I'm always exploring new ways to build better digital experiences. Your support helps me dedicate more time to learning, sharing knowledge, and building tools and projects that empower others — especially in the Arabic tech community.</h3>
 
