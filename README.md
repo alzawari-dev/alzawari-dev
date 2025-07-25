@@ -1,4 +1,4 @@
-<img src="https://github.com/alzawari-dev/alzawari-dev/blob/main/99.jpg" alt="Masterhead" width="100%" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/HazemKhaled/hazemkhaled/refs/heads/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Mohammed Al-Zawari</h1>
 <h3 align="center">Hey there! I'm Mohammed Al-Zawari — a frontend developer with a growing passion for backend magic. I see code as a creative tool, where logic meets visual expression. Whether it's refining UI interactions or diving into performance optimization, I'm always exploring new ways to build better digital experiences. Your support helps me dedicate more time to learning, sharing knowledge, and building tools and projects that empower others — especially in the Arabic tech community.</h3>
